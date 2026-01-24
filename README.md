@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring, Spring Boot, AWS, Docker**
 
-- 📫 How to reach me **canli5389@gmail.com**
+- 📫 How to reach me **muhammetc.canli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
