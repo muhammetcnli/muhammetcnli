@@ -6,7 +6,7 @@
 
 - 📦 Focusing on: Microservices architecture & system design
 
-- 📫 Reach me: muhammetc.canli@gmail.com
+- 📫 Reach me: muhammet@canli.my
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/mhmtcnli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammetcnli6" height="30" width="40" /></a>
